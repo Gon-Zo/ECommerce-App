@@ -9,6 +9,18 @@
 
 ## Runbook
 
+```bash
+npm install
+```
+
+```bash
+cd ios && pod install && cd ..
+```
+
+```bash
+npm ios
+```
+
 ## Help.md
 
 1. React-Native Command
